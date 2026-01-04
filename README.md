@@ -1,7 +1,6 @@
 # sigint-hombre
 
-**Author:** John Page — malvuln (aka hyp3rlinx)  
-**Copyright (c) 2026 John Page**
+**Author:** John Page — malvuln (aka hyp3rlinx)  Copyright (c) 2026**
 
 
 **Purpose:**  
