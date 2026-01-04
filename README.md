@@ -91,7 +91,7 @@ Delivers broad network detection coverage for malicious infrastructure across:
 
 ---
 
-Built for defenders who want **fast fresh intel → dynamic rule detection logic**
+Built for defenders who want **fast fresh dynamic rule detection logic**
 
 ![sigint-hombre-detection](https://github.com/user-attachments/assets/67da1db7-e4e2-465a-a694-2959d0e35baf)
 
