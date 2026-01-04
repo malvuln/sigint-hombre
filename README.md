@@ -46,7 +46,7 @@ Generate **derived Suricata detection rules** from **live URLhaus threat indicat
 - Designed for **compatibility with the Security Onion platform**
 - **Not affiliated with, endorsed by, or supported by Security Onion LLC**
 - *Security Onion is a trademark of Security Onion LLC, acknowledged here for identification purposes only*
-- **Threat intelligence source: URLhaus, a service operated by abuse.ch**
+- **Threat feed source: URLhaus, a service operated by abuse.ch**
 - *abuse.ch is a trademark of abuse.ch and is acknowledged as such*
 
 ---
