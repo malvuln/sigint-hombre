@@ -3,12 +3,18 @@
 **Author:** John Page — malvuln (aka hyp3rlinx)  
 **Copyright (c) 2026 John Page**
 
-**File Hashes:**
-MD5: B3583DC9B2E26E53D4D5A178CF55A56A
-SHA256: 133C74E2DCDBDEBF65336A4D8B56637E228701A1139EA13BF6E3E94462E17C57
 
 **Purpose:**  
 Generate **derived Suricata detection rules** from **live URLhaus threat indicators** at runtime and deploy them to the **Security Onion platform** for high-coverage real-time network monitoring.
+
+---
+
+## Verification (script integrity)
+
+> Hashes for verifying the original rule-generation script (`siginthombre.py`) **.
+
+- **MD5:** `b3583dc9b2e26e53d4d5a178cf55a56a`
+- **SHA256:** `133c74e2dcdbdebf65336a4d8b56637e228701a1139ea13bf6e3e94462e17c57`
 
 ---
 
