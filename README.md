@@ -1,8 +1,7 @@
 # sigint-hombre
 
 **Author:** John Page — malvuln (aka hyp3rlinx) 
- Copyright (c) 2026**
-
+**Copyright (c) 2026
 
 **Purpose:**  
 Generate **derived Suricata detection rules** from **live URLhaus threat indicators** at runtime and deploy them to the **Security Onion platform** for high-coverage real-time network monitoring.
