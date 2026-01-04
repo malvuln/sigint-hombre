@@ -42,7 +42,7 @@ Generate **derived Suricata detection rules** from **live URLhaus threat indicat
 
 ## Rule Output (generated at runtime)
 
-/opt/so/rules/suricata/siginthombre_tls_http_dns.rules
+/opt/so/rules/suricata/siginthombre.rules
 - Contains **only generated, derived detection logic**
 - **Not a feed mirror, database, or IOC redistribution**
 - File is overwritten on each execution to prevent stale indicators
