@@ -90,4 +90,4 @@ Delivers broad network detection coverage for malicious infrastructure across:
 
 ---
 
-Built for defenders who want **fresh intel → dynamic rule logic**, without committing stale indicators to disk or repos.
+Built for defenders who want **fast fresh intel → dynamic rule detection logic**
