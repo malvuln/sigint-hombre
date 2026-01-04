@@ -13,8 +13,8 @@ Generate **derived Suricata detection rules** from **live URLhaus threat indicat
 
 > Hashes for verifying the original rule-generation script (`siginthombre.py`) **.
 
-- **MD5:** `b3583dc9b2e26e53d4d5a178cf55a56a`
-- **SHA256:** `133c74e2dcdbdebf65336a4d8b56637e228701a1139ea13bf6e3e94462e17c57`
+- **MD5:** `a5380d1069c44be2e87e8db5582bea78`
+- **SHA256:** `b16b632156239d7573c94f9d5fa5a330cc5bc543e0eb9b05f14533508c1c7aee`
 
 ---
 
