@@ -95,7 +95,7 @@ Built for defenders who want **fast fresh dynamic rule detection logic**
 
 ![siginthombre_poc](https://github.com/user-attachments/assets/d39977ba-6797-4a18-a62b-88e890306654)
 
-All domains and IPs shown here are publicly shared malicious indicators consumed from third-party threat feeds to demonstrate Suricata alert detections using <b> siginthombre.
+All domains and IPs shown here are publicly shared malicious indicators consumed from third-party threat feeds to demonstrate Suricata alert detections using **siginthombre**.
 Do not visit or interact with these domains or IPs outside of a controlled research or SOC testing environment.
 
 
