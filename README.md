@@ -94,8 +94,8 @@ Delivers broad network detection coverage for malicious infrastructure across:
 Built for defenders who want **fast fresh dynamic rule detection logic**
 
 ![siginthombre_poc](https://github.com/user-attachments/assets/d39977ba-6797-4a18-a62b-88e890306654)
-All domains and IPs shown here are public malicious indicators sourced from third-party threat intelligence feeds.
-These indicators are displayed for detection demonstration purposes only.
-Do not visit or interact with the listed domains or IPs outside of a controlled research or SOC testing environment.
+
+All domains and IPs shown here are publicly shared malicious indicators consumed from third-party threat feeds to demonstrate Suricata alert detections using <b> siginthombre.
+Do not visit or interact with these domains or IPs outside of a controlled research or SOC testing environment.
 
 
