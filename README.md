@@ -93,5 +93,9 @@ Delivers broad network detection coverage for malicious infrastructure across:
 
 Built for defenders who want **fast fresh dynamic rule detection logic**
 
-![sigint-hombre-detection](https://github.com/user-attachments/assets/67da1db7-e4e2-465a-a694-2959d0e35baf)
+![siginthombre_poc](https://github.com/user-attachments/assets/d39977ba-6797-4a18-a62b-88e890306654)
+All domains and IPs shown here are public malicious indicators sourced from third-party threat intelligence feeds.
+These indicators are displayed for detection demonstration purposes only.
+Do not visit or interact with the listed domains or IPs outside of a controlled research or SOC testing environment.
+
 
