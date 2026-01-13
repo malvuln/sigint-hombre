@@ -8,11 +8,31 @@ Copyright (c) 2026
 **Purpose:**  
 Generate **derived Suricata detection rules** from **live URLhaus threat indicators** at runtime and deploy them to the **Security Onion platform** for high-coverage real-time network monitoring.
 
+## Current Version
+
+**v2.0.0**  
+• Major refactor  
+• Improved stability  
+• Actively maintained  
+
 ---
 
-## Verification (script integrity)
+## Verification (v2 – script integrity)
 
-> Hashes for verifying the original rule-generation script (`siginthombre.py`) **.
+- **MD5:** `f92c8100417fc5a992480486203d21f5`
+- **SHA256:** `e83d49b6750c6853eac59d844712230ffa9723312ffb7354b5b7f95368b49583`
+
+---
+
+## Deprecated Version
+
+⚠️ **v1 is deprecated and retained for reference only.**
+
+---
+
+## Verification (v1 – deprecated)
+
+> Hashes for verifying the original (DEPRECATED) rule-generation script (`siginthombre.py`) .
 
 - **MD5:** `2dcadececf1ac430cd2c98e323154148`
 - **SHA256:** `1f32b7c2d890ed6910c716a9a976abb2701954733cd59db5a97344766f9c4691`
