@@ -10,7 +10,7 @@ Generate **derived Suricata detection rules** from **live URLhaus threat indicat
 
 ## Current Version
 
-**v2.0.0**  
+**v2.0**  
 • Major refactor  
 • Improved stability  
 • Actively maintained  
